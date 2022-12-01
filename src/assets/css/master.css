@@ -118,6 +118,7 @@ p{
 /*Media Queries*/
 @media  (min-width: 768px){
     .encabezado{
+        width: 100%;
         height: 15vh;
         position: fixed;
         z-index: 1;
